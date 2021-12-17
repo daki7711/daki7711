@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: davidyjk@colorado.edu
+- 📫 How to reach me: dyjkim@mit.edu or davidyjk@colorado.edu
 - 👯 I’m looking to collaborate on Artificial Intelligence in Education
 
 <!--
