@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: dyjkim@mit.edu or davidyjk@colorado.edu
 - 👯 I’m looking to collaborate on Artificial Intelligence in Education
+- 🔭 I’m currently working on a project with MIT AppInventor
 
 <!--
 **daki7711/daki7711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
