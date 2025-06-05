@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: dyjkim@mit.edu or davidyjk@colorado.edu
+- 📫 How to reach me: dyjkim12@gmail.com or daki7711@icloud.com
 - 👯 I’m looking to collaborate on Artificial Intelligence in Education
 - 🔭 I’m currently working on a project with MIT AppInventor
 
